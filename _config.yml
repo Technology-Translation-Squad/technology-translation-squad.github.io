@@ -22,8 +22,8 @@ title: Technology Translation Squad
 email: contactTTS@unsw.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Providing roadside assistance in electrification since 2024.
-baseurl: "/technology-translation-squad" # the subpath of your site, e.g. /blog
-url: "https://peterfmcnair.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://technology-translation-squad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  peterfmcnair
 
 # Build settings
