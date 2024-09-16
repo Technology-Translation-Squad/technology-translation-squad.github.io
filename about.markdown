@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-The farmsense 9000 is the creation of Peter McNair and Ricardo Li.
+This is a generic website for the TTS devs to demo projects and research.
