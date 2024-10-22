@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Official launch of the Farmsense 9000 Website!
+title: Who are the Technology Translation Squad?
 date: 2024-10-22
 ---
 # What does the Technology Translation Squad hope to do?
