@@ -4,6 +4,7 @@ title: Who are the Technology Translation Squad?
 date: 2024-10-22
 ---
 # What does the Technology Translation Squad hope to do?
+
 ## Create More Synergy Between Industry and Universities
 In Australia, a gap exists between electrical engineering researchers in universities and industry due to universities being viewed as slow, bureaucratic, and costly to collaborate with. This disconnect hinders industry access to academic expertise and results in less industry-focused research at universities. The Technology Translation Squad bridges this gap by offering fast, low-paperwork assistance to address electrical engineering issues. This initiative excels in speed, quality, and multidisciplinary support, transforming how universities are perceived by Australian industries, especially in swiftly addressing technical challenges for both SMEs and large engineering firms.
 ## Engage High-Quality Early-Career Academics at Australian Universities
