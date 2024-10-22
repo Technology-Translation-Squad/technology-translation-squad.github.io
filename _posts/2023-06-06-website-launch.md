@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Official launch of the Farmsense 9000 Website!
-date: 2023-06-06 19:15:30 +1000
-created: 2023-09-28T20:53+10:00
-updated: 2023-08-02T13:04+10:00
+date: 2024-10-22
 ---
-# What is the Farmsense 9000?
-Have you ever had to walk across the entirety of your farm to measure soil moisture? Been stuck in the rain monitoring crops when you'd much rather be inside sipping a hot cup of coffee?
-
-Well look no further! The Farmsense 9000 takes the "ache" out of those acres - meaning you can do more of the things you love.
+# What does the Technology Translation Squad hope to do?
+## Create More Synergy Between Industry and Universities
+In Australia, a gap exists between electrical engineering researchers in universities and industry due to universities being viewed as slow, bureaucratic, and costly to collaborate with. This disconnect hinders industry access to academic expertise and results in less industry-focused research at universities. The Technology Translation Squad bridges this gap by offering fast, low-paperwork assistance to address electrical engineering issues. This initiative excels in speed, quality, and multidisciplinary support, transforming how universities are perceived by Australian industries, especially in swiftly addressing technical challenges for both SMEs and large engineering firms.
+## Engage High-Quality Early-Career Academics at Australian Universities
+There may be a future shortage of high-quality electrical engineering researchers at Australian universities, mainly due to the job security and grant challenges faced by early career academics at these institutions. The abundance of industry jobs, driven by Australia’s decarbonization goals, may lead many academics to consider leaving academia for industry roles. The Technology Translation Squad offers an effective career path for early career electrical engineering academics, eliminating the need for seeking competitive grants by providing job security and growth. This initiative aims to retain talent and reward staff for high-quality industry work, ensuring excellent service for industry clients.
+## Create Streamlined and Diverse Career Pathways at Universities
+Securing a full-time electrical engineering research role without a PhD at Australian universities is challenging given the preference for post-doctoral degrees in traditional academic pay scales. However, most local electrical engineers are not inclined to pursue a PhD due to social challenges, difficulty, and potential lost wages. Additionally, few electrical engineering jobs in Australia mandate a PhD, creating a significant barrier for universities to tap into local talent. The Technology Translation Squad addresses this issue by offering a career pathway for non-PhD electrical engineers, along with potential part-time options. This opens opportunities for industry experts interested in Technology Translation work without leaving their current roles.
+## Support Current Academics with Industry Work
+Experienced researchers and academics are typically at capacity working on their research projects and performing lecturing and administrative duties. Hence, they often have limited time and incentive to work on small industry projects. The Technology Translation Squad fixes this issue as it provides a mechanism to incentivise and carve out time for an academic to work on small industry projects and provide high impact to industry.
